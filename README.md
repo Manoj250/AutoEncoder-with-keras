@@ -1,2 +1,2 @@
 # AutoEncoder-with-keras
-Autoencoder project on mnist dataset
+Autoencoder project on mnist handwritten digits dataset
